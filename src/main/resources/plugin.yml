@@ -1,0 +1,10 @@
+name: CloverPoints
+version: ${project.version}
+main: bcpoints.draxy.main.CloverPoints
+depend: [Vault]
+authors: [Castruu]
+description: Point system for Black Clover RP
+commands:
+  squadinfo:
+  points:
+  pointholo:
